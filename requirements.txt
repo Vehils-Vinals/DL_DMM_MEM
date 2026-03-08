@@ -1,0 +1,5 @@
+matplotlib>=3.8
+lime>=0.2.0.1
+numpy>=1.26
+scikit-image>=0.22
+tensorflow>=2.16
